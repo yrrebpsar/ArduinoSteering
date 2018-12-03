@@ -1,0 +1,11 @@
+.DS_Store
+.settings/*
+*.o
+*.d
+*.bin
+*.eep
+*.elf
+*.hex
+*.lss
+*.map
+*.sym

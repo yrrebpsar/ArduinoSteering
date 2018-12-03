@@ -1,0 +1,15 @@
+// Place your settings in this file to overwrite default and user settings.
+{
+    "window.title": "- XInputPadMicro - ${activeEditorMedium}",
+    "files.exclude": {
+        "**/*.bin": true,
+        "**/*.d": true,
+        "**/*.eep": true,
+        "**/*.elf": true,
+        "**/*.hex": true,
+        "**/*.lss": true,
+        "**/*.map": true,
+        "**/*.o": true,
+        "**/*.sym": true
+    }
+}
